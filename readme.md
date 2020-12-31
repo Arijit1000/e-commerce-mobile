@@ -1,2 +1,4 @@
-# Responsive Ecommerce Website Using HTML CSS JAVASCRIPT
+# E-Commerce Website 
+
+This is an E-Commerce Website.
 
